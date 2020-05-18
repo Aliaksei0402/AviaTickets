@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Belavia",
+    "IATA": "B2",
+    "logo": "/img/belavia.png",
+    "web": "https://belavia.by/"
+  },
+  {
+    "name": "Aeroflot",
+    "IATA": "SU",
+    "logo": "/img/aeroflot.png",
+    "web": "https://www.aeroflot.com/"
+  },
+  {
+    "name": "American Airlines",
+    "IATA": "AA",
+    "logo": "/img/american.png",
+    "web": "https://www.aa.com/"
+  },
+  {
+    "name": "British Airways",
+    "IATA": "BA",
+    "logo": "/img/british.png",
+    "web": "https://www.britishairways.com/travel/home/public/ru_by/"
+  },
+  {
+    "name": "Vladivostok Air",
+    "IATA": "XF",
+    "logo": "/img/vladivostok.png",
+    "web": "https://vvo.aero/"
+  },
+  {
+    "name": "Azul Brazilian Airlines",
+    "IATA": "AD",
+    "logo": "/img/brazilian.png",
+    "web": "https://www.voeazul.com.br/fr/home"
+  }
+]

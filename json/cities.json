@@ -1,0 +1,51 @@
+[
+  {
+    "city": "Minsk",
+    "IATA": "MSQ",
+    "latitude": 53.889296,
+    "longitude": 28.033783,
+    "timezone": 3
+  },
+  {
+    "city": "London",
+    "IATA": "LON",
+    "latitude": 51.469604,
+    "longitude": -0.453566,
+    "timezone": 1
+  },
+  {
+    "city": "Rio De Janeiro",
+    "IATA": "RIO",
+    "latitude": -22.814295,
+    "longitude": -43.246152,
+    "timezone": -3
+  },
+  {
+    "city": "Vladivostok",
+    "IATA": "VVO",
+    "latitude": 43.396705,
+    "longitude": 132.165106,
+    "timezone": 10
+  },
+  {
+    "city": "Moscow",
+    "IATA": "MOW",
+    "latitude": 55.605088,
+    "longitude": 37.286204,
+    "timezone": 3
+  },
+  {
+    "city": "Los Angeles",
+    "IATA": "LAX",
+    "latitude": 33.943477,
+    "longitude": -118.408668,
+    "timezone": -7
+  },
+  {
+    "city": "Frankfort on the Main",
+    "IATA": "FRA",
+    "latitude": 50.050419,
+    "longitude": 8.571714,
+    "timezone": 1
+  }
+]
