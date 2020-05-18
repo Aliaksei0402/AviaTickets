@@ -1,0 +1,267 @@
+body {
+  background-color: #caced7;
+  background-image: url(../img/sky.jpg);
+  background-size: cover;
+}
+
+.formater {
+  display: inline-block;
+  width: 30%;
+}
+
+#inputs {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  margin: 0;
+}
+
+#search {
+  height: 38px;
+  width: 10%;
+}
+
+#anchor {
+  position: fixed;
+  width: 4%;
+  margin-left: 5px;
+  margin-top: 300px;
+  opacity: 0.2;
+}
+
+#clear {
+  text-align: center;
+  opacity: 0.5;
+  border: 2px solid #d4cfcf;
+}
+
+#data {
+  max-width: 900px;
+  margin: auto;
+  min-height: 618px;
+  margin-top: 150px;
+}
+
+.fun {
+  font-size: 12px;
+  width: 65%;
+}
+
+.information {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.button {
+  width: 20%;
+}
+
+#map {
+  margin: auto;
+  width: 90%;
+  height: 625px;
+}
+
+#info {
+  margin-top: 10px;
+  max-width: 600px;
+  margin: auto;
+  position: absolute;
+  vertical-align: auto;
+  top: 10px;
+  left: 20%;
+  right: 20%;
+  opacity: 0.8;
+}
+
+.good {
+  border: 2px solid #54f754 !important;
+}
+
+#chooseTickets {
+  text-align: center;
+}
+
+#chooseWay {
+  margin-top: 50px;
+  display: inline-block;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+#tickets {
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.ticket {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: 50px 0;
+  height: 300px;
+}
+
+.buyTicket {
+  width: 25%;
+  background-color: #d4cfcf;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+.buy {
+  width: 130px;
+  height: 100px;
+  margin: 30px auto;
+  display: block;
+}
+
+input:active,
+input:focus {
+  box-shadow: none !important;
+}
+
+.infoFlying {
+  display: flex;
+  text-align: left;
+  width: 75%;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.infoTransfer {
+  display: flex;
+  border: 2px dotted #d4cfcf;
+  border-radius: 10px;
+}
+
+.logo {
+  width: 40%;
+}
+
+.logoTwo {
+  text-align: center;
+  width: 30%;
+}
+
+.company {
+  display: flex;
+  justify-content: space-around;
+  text-align: centre;
+  height: 50%;
+  margin: 10px 0 0 10px;
+}
+
+.companyTwo {
+  display: flex;
+  justify-content: space-around;
+  text-align: centre;
+  height: 30%;
+  margin: 10px 0 0 10px;
+}
+
+.from-to {
+  display: flex;
+  justify-content: space-around;
+}
+
+.infoTicket {
+  height: 50%;
+}
+
+.transfers {
+  display: flex;
+  justify-content: space-around;
+}
+
+.infoTicketTwo {
+  height: 70%;
+}
+
+.city {
+  display: inline-block;
+  text-align: center;
+  font-size: large;
+}
+
+.dottedBlock {
+  display: inline-block;
+  width: 80px;
+  text-align: center;
+  font-size: small;
+}
+
+.dottedLine {
+  border-bottom: 2px dotted black;
+}
+
+.fly {
+  border-top: 2px dotted black;
+  height: 40px;
+}
+
+.firstFly {
+  border-right: 2px dotted black;
+}
+
+.secondFly {
+  border-right: 2px dotted black;
+  border-left: 2px dotted black;
+}
+
+.thirdFly {
+  border-left: 2px dotted black;
+}
+
+.waiting {
+  font-size: small;
+}
+
+.time {
+  font-size: xx-large;
+}
+
+.none {
+  display: none;
+}
+
+.img {
+  text-align: center;
+  width: 15%;
+}
+
+.noTickets {
+  text-align: center;
+}
+
+.autocomplete-items {
+  position: absolute;
+  width: 20%;
+  border-radius: 5px;
+  border: 1px solid #e6dcdc;
+  z-index: 99;
+  opacity: 0.9;
+}
+
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border: 1px solid #d4d4d4;
+}
+
+.autocomplete-items div:hover {
+  background-color: #756c6c;
+}
+
+.autocomplete-active {
+  background-color: #756c6c !important;
+}

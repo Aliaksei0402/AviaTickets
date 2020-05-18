@@ -1,0 +1,434 @@
+[
+  {
+    "from": "MSQ",
+    "to": "LON",
+    "company": "B2",
+    "date": "2020-05-18 08:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "VVO",
+    "to": "MSQ",
+    "company": "B2",
+    "date": "2020-05-18 15:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "LON",
+    "to": "VVO",
+    "company": "B2",
+    "date": "2020-05-18 15:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "MSQ",
+    "to": "LAX",
+    "company": "B2",
+    "date": "2020-05-18 19:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "LON",
+    "to": "LAX",
+    "company": "B2",
+    "date": "2020-05-18 23:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "VVO",
+    "to": "LAX",
+    "company": "B2",
+    "date": "2020-05-18 21:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "MOW",
+    "to": "MSQ",
+    "company": "B2",
+    "date": "2020-05-18 01:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "MOW",
+    "to": "VVO",
+    "company": "B2",
+    "date": "2020-05-18 02:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "MOW",
+    "to": "LON",
+    "company": "B2",
+    "date": "2020-05-18 03:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "MOW",
+    "to": "RIO",
+    "company": "B2",
+    "date": "2020-05-18 04:00",
+    "time": 60,
+    "price": 50
+  },
+  {
+    "from": "MSQ",
+    "to": "LON",
+    "company": "SU",
+    "date": "2020-05-19 01:10",
+    "time": 210,
+    "price": 150
+  },
+  {
+    "from": "MSQ",
+    "to": "LON",
+    "company": "B2",
+    "date": "2020-05-25 10:00",
+    "time": 120,
+    "price": 50
+  },
+  {
+    "from": "MSQ",
+    "to": "RIO",
+    "company": "SU",
+    "date": "2020-05-10 09:00",
+    "time": 540,
+    "price": 150
+  },
+  {
+    "from": "MSQ",
+    "to": "VVO",
+    "company": "AA",
+    "date": "2020-05-11 08:00",
+    "time": 600,
+    "price": 150
+  },
+  {
+    "from": "MSQ",
+    "to": "MOW",
+    "company": "BA",
+    "date": "2020-05-12 07:00",
+    "time": 90,
+    "price": 75
+  },
+  {
+    "from": "MSQ",
+    "to": "LAX",
+    "company": "XF",
+    "date": "2020-05-13 06:00",
+    "time": 660,
+    "price": 170
+  },
+  {
+    "from": "LON",
+    "to": "MSQ",
+    "company": "AD",
+    "date": "2020-05-15 23:00",
+    "time": 180,
+    "price": 200
+  },
+  {
+    "from": "LON",
+    "to": "MSQ",
+    "company": "AD",
+    "date": "2020-05-15 05:00",
+    "time": 240,
+    "price": 1000
+  },
+  {
+    "from": "LON",
+    "to": "MSQ",
+    "company": "B2",
+    "date": "2020-05-15 17:00",
+    "time": 180,
+    "price": 100
+  },
+  {
+    "from": "LON",
+    "to": "RIO",
+    "company": "B2",
+    "date": "2020-05-15 04:00",
+    "time": 360,
+    "price": 200
+  },
+  {
+    "from": "LON",
+    "to": "VVO",
+    "company": "SU",
+    "date": "2020-05-16 03:00",
+    "time": 420,
+    "price": 300
+  },
+  {
+    "from": "LON",
+    "to": "MOW",
+    "company": "AA",
+    "date": "2020-05-17 02:00",
+    "time": 180,
+    "price": 200
+  },
+  {
+    "from": "RIO",
+    "to": "MSQ",
+    "company": "XF",
+    "date": "2020-05-19 19:00",
+    "time": 390,
+    "price": 200
+  },
+  {
+    "from": "RIO",
+    "to": "LON",
+    "company": "AD",
+    "date": "2020-05-20 18:00",
+    "time": 390,
+    "price": 250
+  },
+  {
+    "from": "RIO",
+    "to": "VVO",
+    "company": "B2",
+    "date": "2020-05-21 17:00",
+    "time": 210,
+    "price": 150
+  },
+  {
+    "from": "RIO",
+    "to": "MOW",
+    "company": "SU",
+    "date": "2020-05-22 16:00",
+    "time": 600,
+    "price": 420
+  },
+  {
+    "from": "RIO",
+    "to": "LAX",
+    "company": "AA",
+    "date": "2020-05-23 15:00",
+    "time": 180,
+    "price": 185
+  },
+  {
+    "from": "VVO",
+    "to": "MSQ",
+    "company": "BA",
+    "date": "2020-05-24 14:00",
+    "time": 420,
+    "price": 200
+  },
+  {
+    "from": "VVO",
+    "to": "LON",
+    "company": "XF",
+    "date": "2020-05-25 13:00",
+    "time": 500,
+    "price": 250
+  },
+  {
+    "from": "VVO",
+    "to": "RIO",
+    "company": "AD",
+    "date": "2020-05-26 12:00",
+    "time": 240,
+    "price": 180
+  },
+  {
+    "from": "VVO",
+    "to": "MOW",
+    "company": "B2",
+    "date": "2020-05-27 11:00",
+    "time": 420,
+    "price": 200
+  },
+  {
+    "from": "VVO",
+    "to": "LAX",
+    "company": "SU",
+    "date": "2020-05-28 10:00",
+    "time": 180,
+    "price": 120
+  },
+  {
+    "from": "MOW",
+    "to": "MSQ",
+    "company": "AA",
+    "date": "2020-05-29 09:00",
+    "time": 180,
+    "price": 200
+  },
+  {
+    "from": "MOW",
+    "to": "LON",
+    "company": "XF",
+    "date": "2020-05-30 08:00",
+    "time": 530,
+    "price": 195
+  },
+  {
+    "from": "MOW",
+    "to": "RIO",
+    "company": "AD",
+    "date": "2020-05-31 08:30",
+    "time": 540,
+    "price": 625
+  },
+  {
+    "from": "MOW",
+    "to": "VVO",
+    "company": "B2",
+    "date": "2020-06-01 09:30",
+    "time": 530,
+    "price": 95
+  },
+  {
+    "from": "MOW",
+    "to": "LAX",
+    "company": "SU",
+    "date": "2020-06-02 10:30",
+    "time": 600,
+    "price": 550
+  },
+  {
+    "from": "LAX",
+    "to": "MSQ",
+    "company": "AA",
+    "date": "2020-06-03 11:30",
+    "time": 500,
+    "price": 450
+  },
+  {
+    "from": "LAX",
+    "to": "LON",
+    "company": "BA",
+    "date": "2020-06-04 12:30",
+    "time": 420,
+    "price": 500
+  },
+  {
+    "from": "LAX",
+    "to": "RIO",
+    "company": "XF",
+    "date": "2020-06-05 13:30",
+    "time": 200,
+    "price": 200
+  },
+  {
+    "from": "LAX",
+    "to": "VVO",
+    "company": "AD",
+    "date": "2020-06-06 14:30",
+    "time": 360,
+    "price": 200
+  },
+  {
+    "from": "LAX",
+    "to": "MOW",
+    "company": "B2",
+    "date": "2020-06-07 15:30",
+    "time": 650,
+    "price": 700
+  },
+  {
+    "from": "VVO",
+    "to": "LAX",
+    "company": "SU",
+    "date": "2020-05-18 14:00",
+    "time": 180,
+    "price": 120
+  },
+  {
+    "from": "VVO",
+    "to": "MOW",
+    "company": "SU",
+    "date": "2020-05-18 09:00",
+    "time": 180,
+    "price": 120
+  },
+  {
+    "from": "MOW",
+    "to": "MSQ",
+    "company": "AA",
+    "date": "2020-05-12 19:00",
+    "time": 180,
+    "price": 200
+  },
+  {
+    "from": "MOW",
+    "to": "LON",
+    "company": "XF",
+    "date": "2020-05-16 04:00",
+    "time": 530,
+    "price": 195
+  },
+  {
+    "from": "MOW",
+    "to": "RIO",
+    "company": "AD",
+    "date": "2020-05-24 16:30",
+    "time": 540,
+    "price": 625
+  },
+  {
+    "from": "MOW",
+    "to": "VVO",
+    "company": "B2",
+    "date": "2020-06-25 15:30",
+    "time": 530,
+    "price": 95
+  },
+  {
+    "from": "MOW",
+    "to": "LAX",
+    "company": "SU",
+    "date": "2020-06-13 14:30",
+    "time": 600,
+    "price": 550
+  },
+  {
+    "from": "LAX",
+    "to": "MSQ",
+    "company": "AA",
+    "date": "2020-06-21 13:30",
+    "time": 500,
+    "price": 450
+  },
+  {
+    "from": "LAX",
+    "to": "LON",
+    "company": "BA",
+    "date": "2020-06-07 22:30",
+    "time": 420,
+    "price": 500
+  },
+  {
+    "from": "LAX",
+    "to": "RIO",
+    "company": "XF",
+    "date": "2020-06-04 23:30",
+    "time": 200,
+    "price": 200
+  },
+  {
+    "from": "LAX",
+    "to": "VVO",
+    "company": "AD",
+    "date": "2020-06-15 05:30",
+    "time": 360,
+    "price": 200
+  },
+  {
+    "from": "LAX",
+    "to": "MOW",
+    "company": "B2",
+    "date": "2020-06-12 08:30",
+    "time": 650,
+    "price": 700
+  }
+]
